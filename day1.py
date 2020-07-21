@@ -49,6 +49,7 @@ print(c)
 d = "Two"
 print(d, a)
 
+#Sample
 cars = 100
 seats_in_a_car = 4
 total_people = cars*seats_in_a_car
